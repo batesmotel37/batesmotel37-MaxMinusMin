@@ -18,5 +18,6 @@ public class MaxMinusMin {
             }
         });
         return nums.get(nums.size()-1)-nums.get(0);
+        //commenting some code so that I can re-commit bc the RevPro site is being stupid
     }
 }
